@@ -1,0 +1,143 @@
+.logo > span {
+  color: #ff4240;
+}
+.navbar-list:hover {
+  color: #ff4240;
+}
+
+.logo-brand {
+  width: 40% !important;
+}
+
+.menubar {
+  width: 60% Im !important;
+}
+.carousel-img {
+  width: auto;
+  height: 550px;
+}
+
+.ticket-button,
+.register-btn {
+  background-color: #ff4240 !important;
+  color: #fff;
+}
+.carousel-message {
+  width: 500px;
+  /* bottom: 30px !important;
+  right: 30px !important; */
+  height: 150px;
+}
+
+.carousel-next-btn,
+.carousel-prev-btn {
+  padding: 5px !important;
+  margin: 10px !important;
+}
+.register-text {
+  font-size: 12px !important;
+}
+
+.product-price {
+  color: #ff4240;
+}
+
+.border-dotted {
+  border-style: dotted !important;
+}
+.phone-card {
+  background-color: #bced6d10;
+}
+
+.mail-card {
+  background-color: #fddd5f10;
+}
+
+.location-card {
+  background-color: #629cf310;
+}
+
+.input-background {
+  background-color: #13131808 !important;
+}
+
+.icon-color {
+  color: #131318 !important;
+}
+
+.button-background {
+  background-color: #ff4240;
+  color: #fff;
+}
+.message-box {
+  height: 380px;
+}
+
+.button-background :hover {
+  background-color: #ff4240 !important;
+}
+
+/* prgress bar */
+
+.containers {
+  display: flex;
+  width: 420px;
+  padding: 50px 0;
+  border-radius: 8px;
+  background: #fff;
+  row-gap: 30px;
+  flex-direction: column;
+  align-items: center;
+}
+.circular-progress {
+  position: relative;
+  height: 100px;
+  width: 100px;
+  border-radius: 50%;
+  background: conic-gradient(#7d2ae8 324deg, #ededed 0deg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.circular-progress::before {
+  content: "";
+  position: absolute;
+  height: 80px;
+  width: 80px;
+  border-radius: 50%;
+  background-color: #fff;
+}
+.progress-value {
+  position: relative;
+  font-size: 20px;
+  font-weight: 600;
+  color: #000000;
+}
+.text {
+  font-size: 30px;
+  font-weight: 500;
+  color: #606060;
+}
+.facility > p {
+  width: 250px !important;
+}
+
+.prgoress-container {
+  width: 280px;
+  height: 300px;
+}
+.progress-1 {
+  background: conic-gradient(#ff4240 324deg, #ededed 0deg) !important;
+}
+
+.progress-2 {
+  background: conic-gradient(#49d293 342deg, #ededed 0deg) !important;
+}
+
+.progress-3 {
+  background: conic-gradient(#ffb546 324deg, #ededed 0deg) !important;
+}
+
+.progress-4 {
+  background: conic-gradient(#4c8df1 286deg, #ededed 0deg) !important;
+}
